@@ -1,11 +1,11 @@
 <?php
 
 include_once 'Datenbank.php';
-include_once 'Template2';
+include_once 'Template2.php';
 
 
 $tplt=new Template2();
-$t
+
 
 $result = Datenbank::getAllModuls();
 
